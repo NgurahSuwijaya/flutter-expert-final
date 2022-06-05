@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/tGWTz0aQrTaeGjax5Rlyhz7ImWD.jpg",
+  "episode_run_time": [
+    47
+  ],
+  "first_air_date": "2022-03-30",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/series/moon-knight/4S3oOF1knocS",
+  "id": 92749,
+  "languages": [
+    "en"
+  ],
+  "name": "Moon Knight",
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Moon Knight",
+  "overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+  "popularity": 8112.226,
+  "poster_path": "/9rJoulDnFeVGXcUsN7CjllUWADA.jpg",
+  "seasons": [
+    {
+      "air_date": "2022-03-30",
+      "episode_count": 6,
+      "id": 130604,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/11keFudto4QrgrXChukexJwdHPe.jpg",
+      "season_number": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Embrace the chaos.",
+  "vote_average": 8.5,
+  "vote_count": 376
+}
