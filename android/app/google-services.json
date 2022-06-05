@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521597062541",
+    "project_id": "expert-flutter-main",
+    "storage_bucket": "expert-flutter-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521597062541:android:72373704c7c4176a8e41c4",
+        "android_client_info": {
+          "package_name": "com.dicoding.ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521597062541-2v4667bo1shbs2fm9k328mimvicp69g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-051G1-SD_XHY09AtGEqWaZSQpMQqbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521597062541-2v4667bo1shbs2fm9k328mimvicp69g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
